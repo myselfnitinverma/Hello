@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include "header.h"
 
-int x = 6;
+int x = 5;
 int main()
 {
     printf("Hello world\n");
